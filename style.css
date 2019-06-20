@@ -1,0 +1,122 @@
+h1 {
+    font-size:20px;
+    text-align:center;
+    color:white;
+
+}
+
+.header1 {
+    background-color:teal;
+    height:60px;
+    padding-top:15px;
+}
+
+header {
+    width:100%;
+    height:10%;
+    background-color:lightcyan;
+    border-bottom:4px solid dimgray;
+}
+
+.links {
+    padding-top:10px;
+}
+
+body {
+    background-image: url(http://api.thumbr.it/whitenoise-361x370.png?)
+    
+}
+
+.about {
+    background-color:white;
+    margin-top:80px;
+    border:1px solid lightgray;
+}
+
+.about-pic {
+    float:left;
+    margin:10px;
+}
+
+footer{
+    width:100%;
+    height:10%; 
+    position: absolute;
+    bottom:0;
+    left:0;
+    background-color:dimgray;
+    text-align:center;
+    
+  }
+
+.portpage {
+    width:100%;
+    height:10%; 
+    position: absolute;
+    bottom:auto;
+    left:0;
+    background-color:dimgray;
+    text-align:center;
+
+}
+
+.rear-end {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:lightgray;
+}
+
+.textdiv {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.portfolio-h1 {
+    color:teal;
+    float:left;
+    font-size:28px;
+    margin-left:27px;
+}
+
+.portfoliobackground {
+    background-color:white;
+    border:1px solid lightgray;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.ch {
+    padding-bottom: 20px;
+}
+
+
+
+.portimg {
+    display:inline-block;
+    position:relative;
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-top:20px;
+    margin-bottom:20px;
+
+}
+
+
+
+
+.textblock {
+    background-color:teal;
+    color:white;
+    width:200px;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%; /* Adjust this value to move the positioned div up and down */
+    text-align: center;
+    width: 60%; /* Set the width of the positioned div */
+}
